@@ -72,7 +72,7 @@ Stated plainly, because they bound what the numbers mean.
 ├── notebooks/
 │   └── analysis.ipynb            End-to-end walkthrough
 ├── figures/                      Generated outputs
-└── docs/                         Abstract and conference poster
+└── docs/                         Abstract and presentation slides
 ```
 
 ---

@@ -88,7 +88,7 @@ The pipeline is therefore fully reproducible; the published figures above are no
 ## Reproducing the pipeline
 
 ```bash
-git clone https://github.com/USERNAME/lca-cvrp-energy-logistics.git
+git clone https://github.com/inurgunel/lca-cvrp-energy-logistics.git
 cd lca-cvrp-energy-logistics
 pip install -r requirements.txt
 

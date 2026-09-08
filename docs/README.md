@@ -1,1 +1,1 @@
-YAEM 2026 presentation slides (in Turkish).
+YAEM 2026 presentation slides (in Turkish) and English abstract.

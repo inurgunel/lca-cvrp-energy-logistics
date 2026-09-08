@@ -5,7 +5,7 @@ authors:
   - family-names: "Günel"
     given-names: "İrem Nur"
 license: MIT
-repository-code: "https://github.com/USERNAME/lca-cvrp-energy-logistics"
+repository-code: "https://github.com/inurgunel/lca-cvrp-energy-logistics"
 preferred-citation:
   type: conference-paper
   title: "Combining life-cycle assessment and capacitated vehicle routing for the environmental evaluation of energy distribution networks"
